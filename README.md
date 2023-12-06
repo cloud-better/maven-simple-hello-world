@@ -1,0 +1,1 @@
+# maven-simple-hello-world
